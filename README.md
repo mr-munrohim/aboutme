@@ -1,13 +1,7 @@
 # Mun Rohim
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-Laravel-red?style=for-the-badge&logo=laravel">
-  <img src="https://img.shields.io/badge/API-REST-blue?style=for-the-badge&logo=fastapi">
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql">
-</p>
-
-<p align="center">
-  <b>Backend Engineer focused on scalable API & web system development</b>
+  Backend Engineer • Laravel Specialist • API Developer
 </p>
 
 <p align="center">
@@ -17,66 +11,65 @@
   <a href="https://wa.me/62823467956xx">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=flat&logo=whatsapp">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mr-munrohim&label=Profile%20Views&color=grey&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mr-munrohim&label=Views&color=grey&style=flat" />
 </p>
 
 ---
 
-## About
+## 👋 About Me
 
-Backend-focused developer with experience in building production-ready web applications and RESTful APIs using Laravel and MySQL.  
-Skilled in designing secure authentication systems, integrating payment gateways, and developing scalable backend architectures.
+Backend-focused developer specializing in building scalable web applications and RESTful APIs using Laravel and MySQL.
+
+Experienced in developing real-world systems such as booking platforms, payment integrations, and mobile-connected applications.  
+Focused on clean architecture, performance, and maintainability.
 
 ---
 
-## Tech Stack
+## 🚀 Core Expertise
+
+- REST API Development (Laravel)  
+- Authentication System (JWT)  
+- Booking & Transaction Systems  
+- Payment Integration  
+- Backend Architecture Design  
+
+---
+
+## 🧰 Tech Stack
 
 **Backend**
 - Laravel (PHP)
-- REST API Development
-- JWT Authentication
 
 **Database**
 - MySQL
 
 **Tools**
-- Git
-- Postman
-- Linux Environment
+- Git  
+- Postman  
+- Linux  
 
 ---
 
-## Selected Projects
+## 📂 Featured Project
 
-### Umrah / Hajj Booking API
-Backend system for travel booking and payment processing.
+### 🔹 Booking & Payment API System
 
-- Secure authentication using JWT  
+A backend system designed for handling booking and transaction workflows, suitable for travel and service-based platforms.
+
+**Key Features:**
+- JWT-based authentication  
 - Booking and transaction management  
-- Payment gateway integration  
-- Real-time notification system  
+- Payment integration  
+- Notification system  
+
+**Tech Used:**
+- Laravel  
+- MySQL  
+- REST API  
 
 ---
 
-### Company Profile Website
-Professional business website for travel services.
-
-- Responsive and mobile-first design  
-- Optimized performance  
-- Clean and user-friendly interface  
-
----
-
-### Android App Integration
-Mobile application built from web system integration.
-
-- REST API integration  
-- WebView with native enhancement  
-- Push notification support  
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-munrohim&show_icons=true&hide_border=true" height="150">
@@ -85,13 +78,22 @@ Mobile application built from web system integration.
 
 ---
 
-## Philosophy
+## 🧠 Working Principles
 
-> Build systems that are simple, scalable, and reliable.
+- Write clean and maintainable code  
+- Build scalable systems  
+- Focus on real-world solutions  
+- Keep things simple and efficient  
 
 ---
 
-## Contact
+## 📫 Contact
 
 - Email: mr.munrohim@gmail.com  
-- WhatsApp: +62 823 4679 56xx
+- WhatsApp: +62 823 4679 56xx  
+
+---
+
+## ⚡ Status
+
+> Currently building and improving backend systems for real-world applications.
