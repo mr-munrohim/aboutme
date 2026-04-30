@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mun Rohim
+# Mun Rohim
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-Laravel-red?style=for-the-badge&logo=laravel">
@@ -7,85 +7,91 @@
 </p>
 
 <p align="center">
-  <b>Building scalable backend systems & modern web applications</b>
+  <b>Backend Engineer focused on scalable API & web system development</b>
 </p>
-
----
-
-## 🧑‍💻 About Me
-- 💻 Web Developer (Backend Focus)
-- ⚡ Specialized in Laravel & REST API Development
-- 🛠️ Experienced in building booking & payment systems
-- 📍 Based in Jambi, Indonesia
-
----
-
-## 🚀 Tech Stack
-
-### 🔹 Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white)
-
-### 🔹 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🔹 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Umrah/Hajj Booking API
-> Backend system for travel booking & payment
-
-- 🔐 JWT Authentication
-- 📦 Booking Management System
-- 💳 Payment Integration
-- 🔔 Notification System
-
----
-
-### 🔹 Company Profile Website
-> Professional business website for travel agency
-
-- 📱 Responsive Design
-- ⚡ Optimized Performance
-- 🎨 Clean UI/UX
-
----
-
-### 🔹 Android App Integration
-> Convert website into mobile app
-
-- 🔗 API Integration
-- 📲 WebView + Native Features
-- 🔔 Push Notification
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-munrohim&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
-## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:mr.munrohim@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail">
   </a>
   <a href="https://wa.me/62823467956xx">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-success?style=flat&logo=whatsapp">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mr-munrohim&label=Profile%20Views&color=grey&style=flat" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> I turn ideas into real-world applications 🚀
+## About
+
+Backend-focused developer with experience in building production-ready web applications and RESTful APIs using Laravel and MySQL.  
+Skilled in designing secure authentication systems, integrating payment gateways, and developing scalable backend architectures.
+
+---
+
+## Tech Stack
+
+**Backend**
+- Laravel (PHP)
+- REST API Development
+- JWT Authentication
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- Postman
+- Linux Environment
+
+---
+
+## Selected Projects
+
+### Umrah / Hajj Booking API
+Backend system for travel booking and payment processing.
+
+- Secure authentication using JWT  
+- Booking and transaction management  
+- Payment gateway integration  
+- Real-time notification system  
+
+---
+
+### Company Profile Website
+Professional business website for travel services.
+
+- Responsive and mobile-first design  
+- Optimized performance  
+- Clean and user-friendly interface  
+
+---
+
+### Android App Integration
+Mobile application built from web system integration.
+
+- REST API integration  
+- WebView with native enhancement  
+- Push notification support  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-munrohim&show_icons=true&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-munrohim&layout=compact&hide_border=true" height="150">
+</p>
+
+---
+
+## Philosophy
+
+> Build systems that are simple, scalable, and reliable.
+
+---
+
+## Contact
+
+- Email: mr.munrohim@gmail.com  
+- WhatsApp: +62 823 4679 56xx
